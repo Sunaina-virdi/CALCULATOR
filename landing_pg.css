@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    overflow: hidden;
+    background-image: url(LANDINGimg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+body>div{
+    max-width: 80%;
+    margin: auto;
+}
+.large-margin-top{
+    margin-top: 445px;
+}
+.large-gap{
+    gap: 100px;
+}
+.topic{    
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 100;
+}
+
