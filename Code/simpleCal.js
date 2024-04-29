@@ -60,7 +60,7 @@ document.addEventListener("DOMContentLoaded", function () {
         currentValue = "";
         display.value = ""  
         event.preventDefault();
-        window.location.href = "index.html";
+        window.location.href = "../index.html";
       });
     // Add a click event listener to toggle the theme
     themeToggleBtn.addEventListener('click', (event) => {
