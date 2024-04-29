@@ -66,7 +66,7 @@ const home = document.getElementById('home');
         currentValue = "";
           display.value = ""  
         event.preventDefault();
-        window.location.href = "landing_pg.html";
+        window.location.href = "index.html";
       });
 
         // Add a click event listener to toggle the theme
